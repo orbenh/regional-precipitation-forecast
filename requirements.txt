@@ -1,1 +1,9 @@
 Add requirements.txt for regional-precipitation-forecast
+pandas
+numpy
+matplotlib
+scikit-learn
+xgboost
+joblib
+seaborn
+statsmodels
