@@ -4,7 +4,8 @@ This project focuses on analyzing and forecasting precipitation across various r
 
 ##  Full Report (PDF)
 
-[Precipitation_Analysis_Report.pdf](./Precipitation_Analysis_Report.pdf)
+[Precipitation_Analysis_Report_new.pdf](./Precipitation_Analysis_Report_new.pdf)
+
 ##  Overview
 
 We analyzed rainfall data from weather stations across Israel, clustered them into meaningful climatic zones, and built Random Forest models to forecast regional precipitation. The goal was to understand rainfall variability across seasons and improve regional predictions using machine learning tools.
