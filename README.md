@@ -10,7 +10,7 @@ This project focuses on analyzing and forecasting precipitation across various r
 
 We analyzed rainfall data from weather stations across Israel, clustered them into meaningful climatic zones, and built Random Forest models to forecast regional precipitation. The goal was to understand rainfall variability across seasons and improve regional predictions using machine learning tools.
 
-## 🔍 Methodology
+## Methodology
 
 ### 1. Climatic Zoning
 - Divided Israel into 4 climatic zones based on long-term precipitation and temperature data.
@@ -36,7 +36,7 @@ We analyzed rainfall data from weather stations across Israel, clustered them in
 - Found good training performance (R²: 0.68–0.82), but lower generalization on test data (R²: 0.22–0.52), indicating overfitting.
 - The model struggled most with extreme precipitation values and regions with volatile climate.
 
-## ⚒ Tools & Libraries
+## Tools & Libraries
 
 - Python
 - pandas, matplotlib, scikit-learn, statsmodels
