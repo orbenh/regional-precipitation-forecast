@@ -35,7 +35,7 @@ We analyzed rainfall data from weather stations across Israel, clustered them in
 - Found good training performance (R²: 0.68–0.82), but lower generalization on test data (R²: 0.22–0.52), indicating overfitting.
 - The model struggled most with extreme precipitation values and regions with volatile climate.
 
-## ⚒️ Tools & Libraries
+## ⚒ Tools & Libraries
 
 - Python
 - pandas, matplotlib, scikit-learn, statsmodels
@@ -43,7 +43,7 @@ We analyzed rainfall data from weather stations across Israel, clustered them in
 - Modeling: Random Forest Regressor
 - Time Series Tests: Augmented Dickey-Fuller, Durbin-Watson
 
-## 📈 Key Insights
+## Key Insights
 
 - Annual clustering was more accurate than seasonal due to smoothing out extreme seasonal variability.
 - A few stations consistently behaved as outliers due to geographical uniqueness (e.g., desert stations, coastal effects).
